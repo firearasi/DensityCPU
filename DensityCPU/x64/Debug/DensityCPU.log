@@ -1,0 +1,3 @@
+﻿  main3ddata.cpp
+D:\CSharp\ZL\DensityCPU\DensityCPU\main3ddata.cpp(52,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  DensityCPU.vcxproj -> D:\CSharp\ZL\DensityCPU\x64\Debug\DensityCPU.exe
